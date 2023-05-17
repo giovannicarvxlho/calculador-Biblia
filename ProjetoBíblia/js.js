@@ -27,4 +27,3 @@ function capitulos() {
 
     cap.value = '';
 }
-
