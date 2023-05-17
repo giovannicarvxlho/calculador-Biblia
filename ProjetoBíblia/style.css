@@ -1,0 +1,46 @@
+body {
+    font: normal 20px Arial;
+    background-color: rgb(114, 114, 194);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    background-color: rgb(63, 63, 63);
+    padding: 75px;
+    border-radius: 20px;
+    box-shadow: 3px 3px 10px black;
+}
+
+section {
+    background-color: rgb(179, 179, 179);
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 3px 3px 10px black;
+}
+
+div {
+    text-align: center;
+    padding: 5px;
+    color: rgb(0, 0, 0);
+}
+
+footer {
+    font-style: italic;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+}
+
+input {
+    border-radius: 5px;
+}
+
+#instruções {
+    font-style: italic;
+    opacity: 20%;
+}
+
+#res {
+    padding: 20px;
+}
