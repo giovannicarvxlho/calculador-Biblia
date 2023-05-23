@@ -3,4 +3,4 @@
 
 Link para acesso: https://giovannidealmeidacarvalho.github.io/calculadorBiblia/
 
-![image](https://github.com/GiovanniDeAlmeidaCarvalho/calculadorBiblia/assets/123241877/c75920c7-4ad7-467d-9b2a-feec5e4b1be9)
+![image](https://github.com/giovannicarvxlho/calculadorBiblia/assets/123241877/c75920c7-4ad7-467d-9b2a-feec5e4b1be9)
